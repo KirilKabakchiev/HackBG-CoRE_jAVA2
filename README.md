@@ -1,1 +1,1 @@
-I am using Git and I am feeling awesome
+Repository for Core-Java-2 HackBulgaria course - solutions to tasks.
